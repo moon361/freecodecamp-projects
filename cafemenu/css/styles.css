@@ -64,6 +64,7 @@ article p {
     */
     display: inline-block;
     margin: 0;
+    font-size: 18px;
 }
 
 .item {
