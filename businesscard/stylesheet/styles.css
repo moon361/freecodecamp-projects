@@ -1,0 +1,54 @@
+body {
+    background-color: rosybrown;
+}
+
+.business-card {
+    background-color: snow;
+    width: 40%;
+    max-width:400px;
+    text-align: center;
+    padding: 5%;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, sans-serif;
+    border: 2px solid greenyellow;
+}
+
+img {
+    width: 30%;
+}
+
+.name {
+    font-size: 20px;
+}
+
+.designation, .company {
+    color: gray;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.email, .phone, .portfolio {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+hr {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+a {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-color: greenyellow;
+    color: brown;
+}
+
+.social-media p {
+    display: inline-block;
+    width: 30%;
+    font-size: 14px;
+    margin-top: 0;
+}
