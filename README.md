@@ -6,4 +6,4 @@ this repository contains freecodecamp projects i code.
 
 [Cafe Menu](https://moon361.github.io/freecodecamp-projects/cafemenu/index.html)
 
-[Business Card Template](https://moon361.github.io/freecodecamp-projects/surveyform/index.html)
+[Business Card Template](https://moon361.github.io/freecodecamp-projects/businesscard/index.html)
