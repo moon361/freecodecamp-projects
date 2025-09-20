@@ -11,3 +11,5 @@ This repository contains freecodecamp projects I code in the Certified Full Stac
 - [Todo List with Html and CSS](https://moon361.github.io/freecodecamp-projects/todolist/index.html)
 
 - [A Blog Post Card](https://moon361.github.io/freecodecamp-projects/blogpostcard/index.html)
+
+- [Eid Event Flyer](https://moon361.github.io/freecodecamp-projects/eventflyerpage/index.html)
