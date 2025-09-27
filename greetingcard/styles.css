@@ -1,0 +1,84 @@
+body {
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 1%;
+}
+
+.card {
+    background-color: aliceblue;
+    width: 80%;
+    max-width: 600px;
+    margin: 5% auto 0 auto;
+    padding: 5% 3%;
+    border-radius: 10px;
+    transition: background-color 0.3s, transform 0.3s ease;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card:hover {
+    background-color: azure;
+    transform: scale(1.05);
+}
+
+.message {
+    margin: 8%;
+}
+
+h1::before {
+    content: "🥳 ";
+}
+
+h1::after {
+    content: " 🥳";
+}
+
+.card-links {
+    display: flex;
+    justify-content: space-around;
+}
+.card-links a {
+    text-decoration: none;
+    background-color: firebrick;
+    font-size: 1em;
+    color: whitesmoke;
+    border-radius: 10px;
+    padding: 3% 3%;
+    margin-bottom: 1%;
+    transition: background-color 0.3s ease;
+}
+
+.card-links a:hover {
+    background-color: navy;
+}
+
+.card-links a:active {
+    background-color: navy;
+}
+
+.card-links a:focus {
+    outline: 2px yellow solid;
+}
+
+.card-links a:visited {
+    background-color: firebrick;
+}
+
+section {
+    background-color: rosybrown;
+    width: 80%;
+    max-width: 600px;
+    margin: 8% auto;
+    padding: 1%;
+    border-radius: 10px;
+    display: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+section:hover {
+    transform: skewX(5deg);
+}
+
+section:target {
+    display: block;
+}
