@@ -13,3 +13,5 @@ This repository contains freecodecamp projects I code in the Certified Full Stac
 - [A Blog Post Card](https://moon361.github.io/freecodecamp-projects/blogpostcard/index.html)
 
 - [Eid Event Flyer](https://moon361.github.io/freecodecamp-projects/eventflyerpage/index.html)
+
+- [Greeting Card](https://moon361.github.io/freecodecamp-projects/greetingcard/index.html)
