@@ -4,12 +4,15 @@ h1 {
 }
 
 .container {
-    padding: 2% 0;
+    padding: 2%;
+    width: 500px;
+    margin: 0 auto;
 }
 
 .marker {
     height: 50px;
     width: 80%;
+    min-width: 280px;
     margin: 5% auto;
     border-radius: 4px;
 }
