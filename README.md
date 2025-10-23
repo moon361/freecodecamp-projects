@@ -19,3 +19,5 @@ This repository contains freecodecamp projects I code in the Certified Full Stac
 - [Job Application Form](https://moon361.github.io/freecodecamp-projects/jobapplicationform/index.html)
 
 - [CSS Color Markers](https://moon361.github.io/freecodecamp-projects/colormarkers/index.html)
+
+- [Registration Form](https://moon361.github.io/freecodecamp-projects/registrationforms/index.html)
