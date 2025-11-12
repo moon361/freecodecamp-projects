@@ -23,3 +23,5 @@ This repository contains freecodecamp projects I code in the Certified Full Stac
 - [Registration Form](https://moon361.github.io/freecodecamp-projects/registrationform/index.html)
 
 - [Contact Form](https://moon361.github.io/freecodecamp-projects/contactform/index.html)
+
+- [Rothko Painting with CSS](https://moon361.github.io/freecodecamp-projects/rothko/index.html)
