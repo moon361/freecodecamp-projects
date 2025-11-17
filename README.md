@@ -27,3 +27,5 @@ This repository contains freecodecamp projects I code in the Certified Full Stac
 - [Rothko Painting with CSS](https://moon361.github.io/freecodecamp-projects/rothko/index.html)
 
 - [Game Settings Panel](https://moon361.github.io/freecodecamp-projects/gamesettingspanel/index.html)
+
+- [Feature Selection Page](https://moon361.github.io/freecodecamp-projects/featureselectionpage/index.html)
