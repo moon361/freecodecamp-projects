@@ -29,3 +29,5 @@ This repository contains freecodecamp projects I code in the Certified Full Stac
 - [Game Settings Panel](https://moon361.github.io/freecodecamp-projects/gamesettingspanel/index.html)
 
 - [Feature Selection Page](https://moon361.github.io/freecodecamp-projects/featureselectionpage/index.html)
+
+- [Confidential Email Page](https://moon361.github.io/freecodecamp-projects/confidentialemailpage/index.html)
