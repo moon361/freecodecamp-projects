@@ -31,3 +31,5 @@ This repository contains freecodecamp projects I code in the Certified Full Stac
 - [Feature Selection Page](https://moon361.github.io/freecodecamp-projects/featureselectionpage/index.html)
 
 - [Confidential Email Page](https://moon361.github.io/freecodecamp-projects/confidentialemailpage/index.html)
+
+- [Playing Cards Page](https://moon361.github.io/freecodecamp-projects/playingcards/index.html)
