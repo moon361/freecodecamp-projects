@@ -33,3 +33,5 @@ This repository contains freecodecamp projects I code in the Certified Full Stac
 - [Confidential Email Page](https://moon361.github.io/freecodecamp-projects/confidentialemailpage/index.html)
 
 - [Playing Cards Page](https://moon361.github.io/freecodecamp-projects/playingcards/index.html)
+
+- [Nutrition Label](https://moon361.github.io/freecodecamp-projects/nutritionlabel/index.html)
