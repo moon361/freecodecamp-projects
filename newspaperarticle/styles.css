@@ -1,0 +1,52 @@
+html {
+    font-size: 24px;
+}
+
+body {
+    background-color: palegreen;
+}
+
+.newspaper {
+    background-color: whitesmoke;
+    margin: 3em auto 2em auto;
+    padding: 2% 3%;
+    width: 90%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.name {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
+
+.name, .date {
+    text-align: center;
+}
+
+.name, .author {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.headline {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.sub-headline {
+    font-size: 1.5em;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.text {
+    text-indent: 20px;
+    line-height: 2em;
+}
+
+.text::first-letter {
+    font-size: 2em;
+    font-weight: bold;
+}
